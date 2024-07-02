@@ -9,7 +9,6 @@ This will be everything you’ll need to program the app, but you could probably
 - [Visual Studio Code](https://code.visualstudio.com/)
 - Command Line/Terminal
 - [Javascript/Typescript](https://www.w3schools.com/js/)
-- [HTML](https://www.w3schools.com/html/)
 - [CSS](https://www.w3schools.com/csSref/sel_class.php)
 - [React Native](https://reactnative.dev/)
 - [Expo Go](https://expo.dev/go)
