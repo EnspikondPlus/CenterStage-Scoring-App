@@ -8,7 +8,7 @@ Tech Stack (not a formal one):
 This will be everything you’ll need to program the app, but you could probably change some things based on preference.
 - [Visual Studio Code](https://code.visualstudio.com/)
 - Command Line/Terminal
-- [Javascript/Typescript](https://www.w3schools.com/js/)
+- [Javascript](https://www.w3schools.com/js/)
 - [CSS](https://www.w3schools.com/csSref/sel_class.php)
 - [React Native](https://reactnative.dev/)
 - [Expo Go](https://expo.dev/go)
