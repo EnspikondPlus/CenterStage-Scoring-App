@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "FTC CenterStage Scorer and Rules",
+    "slug": "FTCCenterStageScoring",
+    "version": "1.2.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.enspikonddev.FTCCenterStageScoring",
+      "buildNumber": "5"
+    },
+    "web": {
+      "favicon": "./assets/icon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0389d7a5-b2a7-435c-adce-43d832a38ba4"
+      }
+    },
+    "android": {
+      "package": "com.enspikonddev.FTCCenterStageScoring",
+      "versionCode" : 5
+    }
+  }
+}
