@@ -17,7 +17,7 @@ This will be everything you’ll need to program the app, but you could probably
 
 # Installation
 This section will walk you through the general steps you’ll need to take to set up your computer for development, although there are some troubleshooting steps I cannot include.
-1. Download and install [VSC](https://code.visualstudio.com/) or your choice of IDE on your platform. VSC is a very strong choice for file management and plugins you might like.
+1. Download and install [VSC](https://code.visualstudio.com/) or your choice of IDE on your platform. VSC is a very strong choice for file management and plugins/extensions you might like.
 
 2. Install [Node.js](https://nodejs.org/en/download/prebuilt-installer) for your system, which will give you the Node Package Manager (npm) and the tools needed to compile the app and install dependencies.
 
