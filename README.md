@@ -4,7 +4,7 @@ A scoring and rulebook application for FTC CenterStage. This repository's purpos
 ## Overview
 The app is made using React Native and deployed/exported using Expo Go. You should first set up the necessary software and tools to program (and review some tutorials if you would like some additional learning or need to get familiar with the tech stack).
 
-Tech Stack (not a formal one):
+### Tech Stack (not a formal one):
 This will be everything you’ll need to program the app, but you could probably change some things based on preference.
 - [Visual Studio Code](https://code.visualstudio.com/)
 - Command Line/Terminal
@@ -34,7 +34,7 @@ This section will walk you through the general steps you’ll need to take to se
 
 9. Download Expo Go on a mobile device and run ```jsx expo start``` in your terminal. A scannable QR code should pop up, which you'll need to scan using the Expo Go app. The app should then load on your mobile device.
 
-### Attribution
+## Attribution
 Created using [codingki](https://github.com/codingki)'s React Native Expo Template and [RapiUI](https://rapi-ui.kikiding.space/). Thank you for your templates!
 
 When you are using this template for future development, please attribute [codingki](https://github.com/codingki) and myself.
