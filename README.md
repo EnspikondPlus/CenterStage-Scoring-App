@@ -46,6 +46,4 @@ These are the folders and the functionality
 /src/screens -> for Screens
 ```
 
-if you find these useful don't forget to give it a star ⭐ and share it to your friends ❤️
-
-Reach me on [twitter](https://twitter.com/kikiding/)
+Created using codingki's React Native Expo Template.
