@@ -19,7 +19,7 @@ const Item = ({ name, details, content}) => (
   </View>
 );
 
-//The filter for the FlatList
+//The filter for the FlatList.
 const List = ({ searchPhrase, setClicked, data }) => {
   const {isDarkmode, setTheme} = useTheme();
   const renderItem = ({ item }) => {
@@ -50,7 +50,7 @@ const List = ({ searchPhrase, setClicked, data }) => {
           renderItem={renderItem}
           keyExtractor={(item) => item.id}
           //Removing the subviews is extremely important for performance.
-          //Though, it doesn't solve all the problems. Try to find a solution that works! I couldn't...
+          //Though, it doesn't solve all the problems. Try to find a solution that works!
           removeClippedSubviews={true}
           //Each item is rendered at a set height.
           itemHeight={80}

@@ -29,7 +29,7 @@ export default function ({ navigation }) {
   const [allianceColor, setAlliance] = useState("blue")
   const {isDarkmode, setTheme} = useTheme();
 
-  //Function to switch alliance colors.Functions in React are defined as consts, or constants.
+  //Function to switch alliance colors. Functions in React are defined as consts, or constants.
   const alliance = () => {
     if (allianceColor === "blue") {
       setAlliance("red");
@@ -345,7 +345,7 @@ export default function ({ navigation }) {
                       </Text>}
                     </View>
                   </MenuOption>
-                  {/* A isDarkmode variable changes the theme of the page. I don't actually know how this works that well... */}
+                  {/* A isDarkmode variable changes the theme of the page. */}
                   <MenuOption style={isDarkmode ? [styles.dmenubox] : [styles.menubox]} onSelect={() => {
                     if (isDarkmode){
                       setTheme("light");

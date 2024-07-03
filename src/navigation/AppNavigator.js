@@ -14,7 +14,7 @@ import Rulebook from "../screens/Rulebook";
 const MainStack = createNativeStackNavigator();
 const Main = () => {
   return (
-    //This component creates the navigator, probably a preset from RapiUI or React itself.
+    //This component creates the navigator, which is imported from React navigation.
     <MainStack.Navigator
       screenOptions={{
         headerShown: false,
@@ -39,7 +39,7 @@ const MainTabs = () => {
         },
       }}
     >
-      {/* Each of the following Tabs.Screens practically represents a button. When clicked, the icon is focused. Also, the comment symbols changed. */}
+      {/* Each of the following Tabs.Screens practically represents a button. When clicked, the icon is focused. */}
       <Tabs.Screen
         name="Scoring"
         component={Home}
